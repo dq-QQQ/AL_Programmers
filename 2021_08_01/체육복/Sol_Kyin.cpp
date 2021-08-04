@@ -1,7 +1,7 @@
 /* ********************************************** */
 /*   WHERE : PROGRAMMERS                          */
 /*                                                */
-/*   WHAT : 행렬의 덧셈                              */
+/*   WHAT : 체육복                                  */
 /*                                                */
 /*   WHO : kyujinlee(kyin) <kjsl4tw@naver.com>    */
 /*                                                */
