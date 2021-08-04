@@ -3,7 +3,7 @@
 /*                                                */
 /*   WHAT : 행렬의 덧셈                              */
 /*                                                */
-/*   WHO : kyujlee(kyin) <kjsl4tw@naver.com>      */
+/*   WHO : kyujinlee(kyin) <kjsl4tw@naver.com>    */
 /*                                                */
 /*   WHEN : 2021-08-01                            */
 /* ********************************************** */
