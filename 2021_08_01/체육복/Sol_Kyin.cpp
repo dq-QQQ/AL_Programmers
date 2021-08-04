@@ -1,3 +1,13 @@
+/* ********************************************** */
+/*   WHERE : PROGRAMMERS                          */
+/*                                                */
+/*   WHAT : 행렬의 덧셈                              */
+/*                                                */
+/*   WHO : kyujinlee(kyin) <kjsl4tw@naver.com>    */
+/*                                                */
+/*   WHEN : 2021-08-01                            */
+/* ********************************************** */
+
 #include <string>
 #include <vector>
 #include <algorithm>
