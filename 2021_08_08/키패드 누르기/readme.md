@@ -1,5 +1,5 @@
 ## 문제풀이
-이규진: 
+이규진: https://sie-kyin.github.io/programmers/2021/08/08/study02week/
 
 김진섭: https://githubseob.tistory.com/24
 ## 문제출처
