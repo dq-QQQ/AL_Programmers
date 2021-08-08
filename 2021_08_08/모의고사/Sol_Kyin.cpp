@@ -1,3 +1,13 @@
+/* ********************************************** */
+/*   WHERE : PROGRAMMERS                          */
+/*                                                */
+/*   WHAT : 모의고사                                */
+/*                                                */
+/*   WHO : kyujinlee(kyin) <kjsl4tw@naver.com>    */
+/*                                                */
+/*   WHEN : 2021-08-08                            */
+/* ********************************************** */
+
 #include <string>
 #include <vector>
 
