@@ -1,7 +1,7 @@
 ## 문제풀이
 이규진: 
 
-김진섭: 
+김진섭: https://githubseob.tistory.com/22
 ## 문제출처
 https://programmers.co.kr/learn/courses/30/lessons/76501
 
