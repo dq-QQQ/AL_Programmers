@@ -1,3 +1,13 @@
+/* ********************************************** */
+/*   WHERE : PROGRAMMERS                          */
+/*                                                */
+/*   WHAT : 숫자 문자열과 영단어                       */
+/*                                                */
+/*   WHO : kyujinlee(kyin) <kjsl4tw@naver.com>    */
+/*                                                */
+/*   WHEN : 2021-08-15                            */
+/* ********************************************** */
+
 #include <string>
 #include <vector>
 #include <cctype>
