@@ -1,6 +1,4 @@
 ## 문제풀이
-이규진: https://sie-kyin.github.io/programmers/2021/08/01/study1week/
-
 김진섭: https://githubseob.tistory.com/10
 ## 문제출처
 https://programmers.co.kr/learn/courses/30/lessons/77484
